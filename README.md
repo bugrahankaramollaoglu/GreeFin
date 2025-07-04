@@ -1,22 +1,17 @@
- <img src="https://github.com/bugrahankaramollaoglu/GreeFin/assets/160841695/08aef891-c713-4dd3-849c-1691051045f9"  width="600" height="480">
+ <img src="https://github.com/bugrahankaramollaoglu/GreeFin/assets/160841695/08aef891-c713-4dd3-849c-1691051045f9"  width="600" height="480" >
 
 ### TAKIM VE ÜRÜN HAKKINDA BİLGİLER
 
 TAKIM İSMİ:  F07 FLUTTER TAKIMI
 
-#### TAKIM ÜYELERİ 
-
-
-| İSİM | GÖREV DAĞILIMI |
-|------|--------|
-|BEYZA NUR TAŞKESEN | SCRUM MASTER |
-|BİRCAN ALADİNLİ | PRODUCT OWNER |
-|BUĞRAHAN KARAMOLLAOĞLU | DEVELOPER |
-|BURAK GÜNGÖR | DEVELOPER |
-|BEYZA DİŞLİ | DEVELOPER |
-
 #### ÜRÜN İSMİ 
 greefin 
+
+#### SCREENSHOTS
+
+| Splash Screen | Home Screen | Game Screen | 
+| ----------- | ----------- | ----------------
+| ![Login Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_1.png) | ![Home Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_2.png) | ![Carbon Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_3.png) 
 
 #### PRODUCT BACKLOG : https://trello.com/b/WHeYnDVy/oua-bootcamp-grup-7
 
@@ -25,7 +20,6 @@ greefin
  Geliştirdiğimiz ürün,  BM Sürdürülebilir Kalkınma Amaçlarına hizmet eden ve daha yeşil, daha temiz bir dünya oluşturmayı amaçlayan küresel çapta bir uygulamadır. Bu nedenle, ürün adını İngilizce olarak tercih ettik. İsmimizdeki "gree" kökü, "green" kelimesinden; "fin" ise uygulamamızın içeriğini belirten "finance" kelimesinin kısaltmasından gelmektedir.
 
 #### PROJE AÇIKLAMASI 
- 
 
 Greefin, finansal yönetimi ve sürdürülebilirliği bir araya getiren yenilikçi bir uygulamadır. Karbon ayak izi özelliği ile sürdürülebilirlik hedeflerine izmet eden Greefin, kullanıcılarına finansal işlemlerini daha bilinçli ve çevre dostu bir şekilde yönetme imkanı sunar. Uygulama, kullanıcıların harcamalarını manuel olarak kolayca ekleyebilmelerine olanak tanır. Ayrıca, harcamaların alışveriş, enerji ve ulaşım gibi kategorilere göre dağılımını gösterir. Greefin, kullanıcılar tüketim bilgilerini ve miktarlarını sisteme girdiklerinde uygulama karbon ayaki zini hesaplar ve bunu grafikle birlikte kullanıcıya sunar. My Records kısmında ise son hesapladığı karbon ayak izi verilerini görebilir ve bunun takibini yapabilir.Bu sayede kullanıcı tüketimlerinin ne kadar karbon ayak izi oluşturduğunu somut verilerle elde edebilir ve bunun takibini kolayca yapabilir. Maps özelliği ile bir yerden bir yere giderken hangi yolla daha az karbon salınımı yapacağının bilgisi verilir. Bu sayede doğaya katkıda bulunan bilinçli zihinler perçinlenir ve de son olarak uygulama içi linklere tıklayarak doğaya katkıda bulunan projelere erişebilir. Özetle Greefin, finansal sağlığı ve çevresel bilinci birleştirerek kullanıcılarına kapsamlı bir sürdürülebilirlik deneyimi sunar.
 
@@ -173,12 +167,6 @@ Greefin'den Beklentiler:
 - Ulaşım seçeneklerinin karbon ayak izini gösteren harita ve öneriler
 - Çevreye duyarlı tercihler yapmasını sağlayacak bilgilendirici mesajlar ve öneriler
 
-
-
-
-
-
-
 #### HEDEF KİTLE
 
 - Çevre Bilincine Sahip Bireyler :
@@ -186,9 +174,6 @@ Greefin'den Beklentiler:
 
 -  Finansal Bilinç Sahipleri :
 	Harcamalarını ve bütçelerini etkin bir şekilde yönetmek isteyen bireyler.
-
-
-
 
   ### Kullanıcı Haritası
 
