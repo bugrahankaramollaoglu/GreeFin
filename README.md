@@ -9,9 +9,9 @@ greefin
 
 #### SCREENSHOTS
 
-| Splash Screen | Home Screen | Game Screen | 
+| Login Screen | Home Screen | Carbon Screen | 
 | ----------- | ----------- | ----------------
-| ![Login Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_1.png) | ![Home Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_2.png) | ![Carbon Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_3.png) 
+| ![Login Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_2.png) | ![Home Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_3.png) | ![Carbon Screen](https://github.com/bugrahankaramollaoglu/greefin/blob/main/readme_files/photo_4.png) 
 
 #### PRODUCT BACKLOG : https://trello.com/b/WHeYnDVy/oua-bootcamp-grup-7
 
